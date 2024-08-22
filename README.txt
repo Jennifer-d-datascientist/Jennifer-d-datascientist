@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Uju Jennifer Ofin!
+# 👋 Hello, I'm Uju Jennifer Ofiani!
 
 Welcome to my GitHub profile! I'm a passionate data scientist and customer service professional with a keen interest in solving problems and making data-driven decisions. Here you'll find a collection of my projects, repositories, and contributions that showcase my skills and expertise.
 
